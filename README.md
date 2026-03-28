@@ -1,9 +1,9 @@
  Digital Literacy Project
 
 Student Details
-Name: [Pradhnya .Nandkishor. Padar.]  
-Registration Number: [25MIP10085]  
-Branch: [Computational and Data Science]  
+Name: Pradhnya .Nandkishor. Padar. 
+Registration Number: 25MIP10085  
+Branch: Computational and Data Science  
 Year: 1st Year B.Tech  
 Course Code: CSE0001  
 
@@ -35,10 +35,16 @@ Task 1 – Digital Literacy Infographic
 - Description: Created professional profiles on these platforms to build an online presence.  
 - Outcome: Learned the importance of maintaining a professional digital identity.  
 
-📂 Files:  
-- `task-2-portfolio/github.png`  
-- `task-2-portfolio/linkedin.png`  
-- `task-2-portfolio/kaggle.png`  
+ Files:  
+- task-2-
+- <img width="1911" height="920" alt="Screenshot 2026-03-28 144538" src="https://github.com/user-attachments/assets/f1f6cf65-4bc3-4bf9-9cf4-598f680ef116" />
+
+- `task-2-
+- <img width="1920" height="1080" alt="Screenshot 2026-03-26 140310" src="https://github.com/user-attachments/assets/0c735620-7136-455b-aed0-f1b2a1d94b86" />
+  
+- `task-2
+- <img width="1587" height="705" alt="Screenshot 2026-03-28 144308" src="https://github.com/user-attachments/assets/133c05e1-3c50-46f5-8985-eadb682a2a9f" />
+  
 
 
  Task 3 – Coding & Collaboration Platforms
