@@ -81,7 +81,7 @@ Task 1 – Digital Literacy Infographic
 - https://github.com/Pradhnyapadar/DIGITAL-LITERACY./blob/main/TASK%204%20Request%20for%20Assignment%20Deadline%20Extension.txt
 - https://github.com/Pradhnyapadar/DIGITAL-LITERACY./blob/main/Task-4%20Application%20for%20Summer%20Internship.txt
 - `task-4-email-etiquette/social-media-checklist.txt`
-- 
+  https://github.com/Pradhnyapadar/DIGITAL-LITERACY./blob/main/Task-4%20SOCIAL%20MEDIA%20CHECKLIST.txt 
 - 
 
 
