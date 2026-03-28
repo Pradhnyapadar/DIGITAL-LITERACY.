@@ -56,12 +56,17 @@ Task 1 – Digital Literacy Infographic
 - Created a Digital Literacy Awareness Quiz with 5 questions  
 - Collected responses using Google Sheets  
 
- Google Form Link: [Paste your link here]
+ Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLScC409P9dMVCKomc5UNeGYzAQUzjn4qb5R13kPi7ACaUtZVVQ/viewform?usp=publish-editor
 
  Files:  
-- `task-3-platforms/hackerrank.png`  
-- `task-3-platforms/google-form.png`  
+- `task-3-platforms/hackerrank.png`
+-  <img width="1284" height="812" alt="Screenshot 2026-03-28 153917" src="https://github.com/user-attachments/assets/ffc3bdd9-f29b-4d5f-b379-f105f7a96a10" />
+
+- `task-3-platforms/google-form.png`
+- <img width="401" height="710" alt="Screenshot 2026-03-28 150252" src="https://github.com/user-attachments/assets/65b4d252-037f-4b42-9e64-4cd987f5ae74" />
+
 - `task-3-platforms/responses.png`  
+<img width="1213" height="265" alt="Screenshot 2026-03-28 151129" src="https://github.com/user-attachments/assets/e2a349e5-79dd-40a9-9851-2a9ed4a3644b" />
 
 
 
