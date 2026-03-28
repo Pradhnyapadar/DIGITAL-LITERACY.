@@ -95,8 +95,10 @@ Task 5 – Cybercrime Awareness
 - Created a checklist with safety tips including UPI safety and reporting methods  
 
  Files:  
-- `task-5-cybercrime/casestudy.txt`  
-- `task-5-cybercrime/prevention-checklist.txt`  
+- `task-5-cybercrime/casestudy.txt`
+- https://github.com/Pradhnyapadar/DIGITAL-LITERACY./blob/main/Task-5%20PHIISHING%20CASE%20STUDY.txt
+- `task-5-cybercrime/prevention-checklist.txt`
+-  
 
 
 
